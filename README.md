@@ -154,11 +154,4 @@ This project is developed for academic purposes.
 
 ---
 
-If you want, I can also generate:
 
-* ⭐ A more advanced professional GitHub version
-* 📄 A short academic version
-* 🚀 A README with screenshots section
-* 🎓 A polished final report introduction
-
-Tell me what you need next 😊
